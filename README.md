@@ -2,6 +2,17 @@
 <p align="center">
   
 In this tool you will learn system information, DNS look-up, whois look-up, traceroute , GeoIP look-up, port scan, Reverse IP Lookup, Reverse DNS Lookup.
+
+# Features 
+- System Information
+- Dns Lookup
+- Whois
+- Traceroute
+- GeoIP Lookup
+- Port Scan
+- Reverse IP Lookup
+- Reverse DNS Lookup 
+
 Steps to install This tool
 # Termux and Kalilinux 
   
