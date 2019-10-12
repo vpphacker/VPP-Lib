@@ -32,10 +32,10 @@ $ python3 vpplib.py
 
 Now this tool will guide you. 
 
-Subscribe our YouTube Channel for Hacking Videos 👇👇👇
+#### Subscribe YouTube Channel 
 https://www.youtube.com/channel/UCIQ5wO7zmPmjnIBm1d_fGKw
 
-For More Information Visit our Website 😁👇👇
+#### Check Out Website 
 https://www.vpphacker.ml
 
 Join Us on Telegram For Hacking Tips and Tricks 
