@@ -13,7 +13,6 @@ In this tool you will learn system information, DNS look-up, whois look-up, trac
 - Reverse IP Lookup
 - Reverse DNS Lookup 
 
-Steps to install This tool
 # Termux and Kalilinux 
   
 ```
